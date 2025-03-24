@@ -9,7 +9,7 @@ Tottenham Hotspur under Mauricio Pochettino is often regarded as one of the best
 This project aims to explore a statistical analysis of Spurs under Pochettino, using relevant football data and visualisations to assess the team’s performance and tactics. 
 
 ## Contents 
-The notebooks you can find under this project will cover the following areas of analysis: 
+The notebooks you can find in this project will cover the following areas of analysis: 
 - Key Performance Metrics and Comparisons
 - Player Performance and Market Value Growth
 - Tactical Approach and Playing Style

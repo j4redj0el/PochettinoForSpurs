@@ -1,4 +1,7 @@
 # Statistical and Visual Analysis of Spurs Under Mauricio Pochettino
+
+![cover](
+
 ## Introduction
 Tottenham Hotspur under Mauricio Pochettino is often regarded as one of the best teams to never win a trophy. During his time, Spurs regularly finished near the top of the league and even reached a Champions League final. Pochettino built a team that played exciting, high-energy football and had a clear playing style. Since the exit of the Argentinian, the club has struggled to find a manager who could bring the same success and identity. Just How good were Spurs under Pochettino? 
 

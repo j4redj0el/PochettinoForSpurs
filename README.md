@@ -20,3 +20,4 @@ The notebooks you can find in this project will cover the following areas of ana
 - Transfermrkt
 - Statsbomb
 
+Link to full Article found [here](https://medium.com/@jjaredtan/statistical-and-visual-analysis-of-tottenham-hotspur-under-mauricio-pochettino-7ebeab313e13)
